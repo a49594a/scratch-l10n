@@ -38,8 +38,8 @@
     "paint.ovalMode.oval": "Çember",
     "paint.rectMode.rect": "Dikdörtgen",
     "paint.reshapeMode.reshape": "Şekli değiştir",
-    "paint.roundedRectMode.roundedRect": "Yuvarlarılmış dikdörtgen",
+    "paint.roundedRectMode.roundedRect": "Yuvarlatılmış dikdörtgen",
     "paint.selectMode.select": "Seç",
-    "paint.textMode.text": "Yazı",
+    "paint.textMode.text": "Metin",
     "paint.colorPicker.swap": "Değiştir"
 }

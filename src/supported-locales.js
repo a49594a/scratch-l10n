@@ -29,6 +29,9 @@ const isRtl = locale => {
     return rtlLocales.indexOf(locale) !== -1;
 };
 
+
+// wwwLocales is deprecated. Remove it once we know it's no longer used.
+// For now it's just identical.
 const wwwLocales = {
     'en': {name: 'English'},
     'zh-cn': {name: '简体中文'}

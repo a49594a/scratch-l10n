@@ -4,7 +4,7 @@
     "paint.paintEditor.brightness": "Осветљеност",
     "gui.comingSoon.message1": "Не брини, радимо на томе  {emoji}",
     "gui.comingSoon.message2": "Очекуј убрзо",
-    "gui.comingSoon.message3": "Тренутно радимо на томе {emoji}",
+    "gui.comingSoon.message3": "Радимо на томе {emoji}",
     "paint.paintEditor.fill": "Попуни",
     "paint.paintEditor.costume": "Костим",
     "paint.paintEditor.group": "Групиши",
@@ -17,11 +17,11 @@
     "paint.paintEditor.back": "Назад",
     "paint.paintEditor.more": "Више",
     "paint.modeTools.brushSize": "Величина",
-    "paint.modeTools.eraserSize": "Величина гумице за брисање",
+    "paint.modeTools.eraserSize": "Величина брисача",
     "paint.modeTools.copy": "Умножи",
     "paint.modeTools.paste": "Уметни",
     "paint.modeTools.delete": "Обриши",
-    "paint.modeTools.curved": "Заобљен",
+    "paint.modeTools.curved": "Заобљено",
     "paint.modeTools.pointed": "Шиљаст",
     "paint.modeTools.thickness": "Дебљина",
     "paint.modeTools.flipHorizontal": "Обрни хоризонтално",
@@ -41,5 +41,5 @@
     "paint.roundedRectMode.roundedRect": "Заобљени правоугаоник",
     "paint.selectMode.select": "Изабери",
     "paint.textMode.text": "Текст",
-    "paint.colorPicker.swap": "Узајамно замени"
+    "paint.colorPicker.swap": "Замени"
 }
